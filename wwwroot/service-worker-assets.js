@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-wAOGq+TPgaIzS4EvRBRaXc3a8J78aFF+TRmhx4vObgc=",
+      "hash": "sha256-RLZLnDs9BHHuLTklrWRQIv5uO9FEZvsc\/eNc6ekNK1w=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-LGRntvUP0qeZrmBZiQ0GzSjMDkONfBSQ9fMX41Qdflk=",
+      "hash": "sha256-DIsngaMWM\/JLNB3Zt3i0W\/PvK7XOHQsOWc5TMLidWkU=",
       "url": "_framework\/kanavrt.wasm"
     },
     {
@@ -45,7 +45,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.Forms.wasm"
     },
     {
-      "hash": "sha256-DltkBn6BZPB+Mx3yBmfjpdgoR8eykNXCVYlhTJLWIMk=",
+      "hash": "sha256-1vUgaXBdG2OxmXpoRvrPIsgSryxUTGk8500XXNtgy\/Y=",
       "url": "_framework\/Microsoft.AspNetCore.Components.wasm"
     },
     {
@@ -193,7 +193,7 @@
       "url": "_framework\/System.wasm"
     },
     {
-      "hash": "sha256-0EWCeJDJeSfYODO0SZEkeEatgETtsGNNxxq3TGFKY60=",
+      "hash": "sha256-44xOCCrnh6MzlDGDfb2Lfykn7IdCEt+Kzle\/SVV++Cg=",
       "url": "kanavrt.styles.css"
     },
     {
@@ -329,7 +329,7 @@
       "url": "img\/svg\/settings\/grid_active.svg"
     },
     {
-      "hash": "sha256-9Ra5XJHTPQoG7qjg4EszLNdeqwIPws6WdqmB1sE2mDQ=",
+      "hash": "sha256-M7w43Ko2O21NL8UtmgkffJlHJjsb5AaFTiKn8VXEI9I=",
       "url": "index.html"
     },
     {
@@ -337,5 +337,5 @@
       "url": "manifest.webmanifest"
     }
   ],
-  "version": "nCHiEtPB"
+  "version": "DYkMspIo"
 };
