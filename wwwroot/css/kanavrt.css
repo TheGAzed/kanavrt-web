@@ -65,8 +65,9 @@ body {
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     margin: unset;
-    height: 100vh;
+    height: 100%;
     background-color: var(--white);
+    z-index: 1000;
 }
 
 h1:focus {
@@ -192,13 +193,13 @@ section {
     }
 }
 
-@media screen and (max-height: 850px) {
+@media screen and (max-height: 825px) {
     section {
         height: 30rem;
     }
 }
 
-@media screen and (max-height: 750px) {
+@media screen and (max-height: 700px) {
     section {
         height: 25rem;
     }

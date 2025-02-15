@@ -377,8 +377,10 @@ button.roman-character[b-yn0j5cqw01] {
 	background-color: var(--white);
 	width: 2rem;
 	height: 2rem;
-	border: 0.125rem solid var(--black);
+	outline: 0.125rem solid var(--black);
 	border-radius: 0.25rem;
+	border: none;
+	outline-offset: -0.125rem;
 }
 
 button.roman-character-unset[b-yn0j5cqw01] {
@@ -685,7 +687,6 @@ section#font-select-settings[b-aykuu467ed] {
 
 table#font-table[b-aykuu467ed] {
 	display: grid;
-	gap: 1rem;
 	width: inherit;
 	height: inherit;
 }
@@ -719,10 +720,10 @@ label.font-type-label[b-aykuu467ed] {
 	flex-direction: column;
 	height: 100%;
 	align-items: center;
-	gap: 2rem;
 	cursor: pointer;
 	padding-left: 0.5rem;
 	padding-right: 0.5rem;
+	justify-content: space-around;
 }
 
 input.font-input:checked + label.font-type-label[b-aykuu467ed] {
