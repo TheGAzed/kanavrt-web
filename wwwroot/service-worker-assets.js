@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-GBq\/B2Ch2d1HJ1u436pQqN\/QaeBpvYzkuznsRDU1aJM=",
+      "hash": "sha256-flLJJY+iNhcL09kRBMZngTYZ75kU5iOAx+lGMLASAe0=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-DSI+qQcZ8mja4YyVxvVfpvyj4zJmjxuDJVxQu\/b5Jic=",
+      "hash": "sha256-Mw11uH729xJJ+\/u5kzIHcJ0aRhta\/cqjutBIXgH4iKw=",
       "url": "_framework\/kanavrt.wasm"
     },
     {
@@ -173,7 +173,7 @@
       "url": "_framework\/System.Runtime.Serialization.Primitives.wasm"
     },
     {
-      "hash": "sha256-HThxHk27P\/R4d0n7VarOlNePJQeCX8ZlxvgIwHL7KWE=",
+      "hash": "sha256-y3TfI2M8+m+oQ+\/6Z08VDPEQle5HtRBaQu1DPcPjsxw=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
@@ -193,11 +193,11 @@
       "url": "_framework\/System.wasm"
     },
     {
-      "hash": "sha256-44xOCCrnh6MzlDGDfb2Lfykn7IdCEt+Kzle\/SVV++Cg=",
+      "hash": "sha256-a0C6WSdBojRx7K12Xebj5L\/VNtQHXxa5OBCesFwHlso=",
       "url": "kanavrt.styles.css"
     },
     {
-      "hash": "sha256-2G945BPI13RYMI1XtZopS7zOUmtu+aYbLQzLZUnShko=",
+      "hash": "sha256-Qie4DafhTc94o+KVRCdEbsrJ\/ltPjRqOqzW1MvAFnRw=",
       "url": "css\/kanavrt.css"
     },
     {
@@ -211,6 +211,74 @@
     {
       "hash": "sha256-hBySrX29RziNikwEJwIGI9gAJcXKtmE4VVd66TTC0bE=",
       "url": "favicon.ico"
+    },
+    {
+      "hash": "sha256-kikhQfs\/GkfGxyfBrEc8jevP3TPQ2oJ+kCkXGvcsw4M=",
+      "url": "font\/Aoboshi_One\/AoboshiOne-Regular.ttf"
+    },
+    {
+      "hash": "sha256-n8oUBhPaRhQvpfMmxbvo82GuRK4DyCHnJ3sUQpm2BUM=",
+      "url": "font\/Aoboshi_One\/OFL.txt"
+    },
+    {
+      "hash": "sha256-V5huv4KsW1ODFVSDtUHXQzEhvzlcViHfWbSBlqipnC4=",
+      "url": "font\/Dela_Gothic_One\/DelaGothicOne-Regular.ttf"
+    },
+    {
+      "hash": "sha256-B0JNtAiSEed92KC8oU+\/RuiAEEXW25Bh+9bOCOWCWU4=",
+      "url": "font\/Dela_Gothic_One\/OFL.txt"
+    },
+    {
+      "hash": "sha256-\/3BqtwL9REYgfHCvVk9otiIFyZcvGRf2i6c5xhu2qhg=",
+      "url": "font\/DotGothic16\/DotGothic16-Regular.ttf"
+    },
+    {
+      "hash": "sha256-ko9iCyh4OGjrk6ro6V8X0YuK+cXJKEb6zV\/wx3Jxocg=",
+      "url": "font\/DotGothic16\/OFL.txt"
+    },
+    {
+      "hash": "sha256-p+K9dDp07nxqMPJcsBZmyioeXaseyGsvgm64N1GhpQk=",
+      "url": "font\/Hannari\/DESCRIPTION.en_us.html"
+    },
+    {
+      "hash": "sha256-by7s4lo3ij6F+CxfGGLMiG37o+tnfTqcGMWkmTe7m1M=",
+      "url": "font\/Hannari\/Hannari-Regular.ttf"
+    },
+    {
+      "hash": "sha256-3iJGiV8Kwh\/gWwldWG02y8n5h+vK7R4FDGHmlmfK8cY=",
+      "url": "font\/Hannari\/OFL.txt"
+    },
+    {
+      "hash": "sha256-b1+mf7VIKFzyndmjSNxd5ll0PeTTgdAuoN33M5WKtnk=",
+      "url": "font\/Cherry_Bomb_One\/CherryBombOne-Regular.ttf"
+    },
+    {
+      "hash": "sha256-48jlIzDVAuICI0ZDmfHEbXrlJkKLFEfYSzYwMiv4Xas=",
+      "url": "font\/Cherry_Bomb_One\/OFL.txt"
+    },
+    {
+      "hash": "sha256-G96ntWNDNxf6pGLdsdlSigR\/wpKk7ZZ5mAIs2rEhiw4=",
+      "url": "font\/Chokokutai\/Chokokutai-Regular.ttf"
+    },
+    {
+      "hash": "sha256-nva9ZHpvxc9YmI+DoXqGfVCuq8r5XqWeDpq9JeaiEXo=",
+      "url": "font\/Chokokutai\/OFL.txt"
+    },
+    {
+      "hash": "sha256-vdxvM4jRW0aw0ovoRwsMU3EvfRQpb2pmfbPQ6q8MORo=",
+      "url": "font\/Monomaniac_One\/MonomaniacOne-Regular.ttf"
+    },
+    {
+      "hash": "sha256-5\/fqWRC8Cd8vr4nGvI\/SoSGC9bLgDNUqO4KhZH4s8WY=",
+      "url": "font\/Monomaniac_One\/OFL.txt"
+    },
+    {
+      "hash": "sha256-MdfvrOC7z8K+pgCnr0K2NV528KqH8Mf4EQBtg2YlfyU=",
+      "url": "font\/Zen_Kurenaido\/OFL.txt"
+    },
+    {
+      "hash": "sha256-ibclP+1xsRIVwo88m2QV2t7Tdl3Qy0F+UiCNsF7blrc=",
+      "url": "font\/Zen_Kurenaido\/ZenKurenaido-Regular.ttf"
     },
     {
       "hash": "sha256-jA9np+0Et2GpjCcV2cx8J9Wr0gsE1TIAiX3LdKT+JXo=",
@@ -329,7 +397,7 @@
       "url": "img\/svg\/settings\/grid_active.svg"
     },
     {
-      "hash": "sha256-4kyFMaFGqWmTRrWUS7W9RvPeUPnBeQ\/EEz3Z0vrzDho=",
+      "hash": "sha256-Jvp47w6HoPBz7TyCI+A2fQQdgdieApbf5RIbkEY1Amc=",
       "url": "index.html"
     },
     {
@@ -337,5 +405,5 @@
       "url": "manifest.webmanifest"
     }
   ],
-  "version": "S3vL1roU"
+  "version": "YRApKfXM"
 };

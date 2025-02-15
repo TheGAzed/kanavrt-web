@@ -11,6 +11,53 @@
     --yellow: #736D26;
 }
 
+@font-face {
+    font-family: 'Zen Kurenaido';
+    unicode-range: U+3040-309F;
+    src: url(../font/Zen_Kurenaido/ZenKurenaido-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'DotGothic16';
+    unicode-range: U+3040-309F;
+    src: url(../font/DotGothic16/DotGothic16-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Hannari';
+    unicode-range: U+3040-309F;
+    src: url(../font/Hannari/Hannari-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Aoboshi One';
+    unicode-range: U+3040-309F;
+    src: url(../font/Aoboshi_One/AoboshiOne-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Cherry Bomb One';
+    unicode-range: U+3040-309F;
+    src: url(../font/Cherry_Bomb_One/CherryBombOne-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Dela Gothic One';
+    unicode-range: U+3040-309F;
+    src: url(../font/Dela_Gothic_One/DelaGothicOne-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Monomaniac One';
+    unicode-range: U+3040-309F;
+    src: url(../font/Monomaniac_One/MonomaniacOne-Regular.ttf);
+}
+@font-face {
+    font-family: 'Chokokutai';
+    unicode-range: U+3040-309F;
+    src: url(../font/Chokokutai/Chokokutai-Regular.ttf);
+}
+
 body {
     overflow: hidden;
 }
@@ -139,20 +186,20 @@ section {
     }
 }
 
-@media screen and (max-height: 800px) {
+@media screen and (max-height: 950px) and (max-width: 900px) {
+    h4 {
+        display: none;
+    }
+}
+
+@media screen and (max-height: 850px) {
     section {
         height: 30rem;
     }
 }
 
-@media screen and (max-height: 700px) {
+@media screen and (max-height: 750px) {
     section {
         height: 25rem;
-    }
-}
-
-@media screen and (max-height: 600px) {
-    section {
-        height: 20rem;
     }
 }
