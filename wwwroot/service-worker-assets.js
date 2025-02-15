@@ -397,7 +397,7 @@
       "url": "img\/svg\/settings\/grid_active.svg"
     },
     {
-      "hash": "sha256-fbjE\/eEYnlEas52roV3ubq1+d5Cet90QaSFaEwQJje8=",
+      "hash": "sha256-YSPrqvYZWAa36ni6KTOVa8wzFZ6P1Z5zgFegC6AoGO0=",
       "url": "index.html"
     },
     {
@@ -405,5 +405,5 @@
       "url": "manifest.webmanifest"
     }
   ],
-  "version": "NRw2g+CE"
+  "version": "srCN43NE"
 };
