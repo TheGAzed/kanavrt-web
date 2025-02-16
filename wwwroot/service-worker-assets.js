@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-hbBZmPUWB\/3k1yQWp\/JzbfGukrSlwY5w5fRiIJnaNaw=",
+      "hash": "sha256-dG7Hu8uItlDxw7in1S9yaeMV3OY87rroA3qqxFqcocI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-Z0MEK9MeKStqFODiXMBfiHjjubElBudH0a15uTx5+yk=",
+      "hash": "sha256-r3UrmewY\/03n9Pq7dPItdx\/qb61Cxs\/3rXUsRqIO5xA=",
       "url": "_framework\/kanavrt.wasm"
     },
     {
@@ -193,11 +193,11 @@
       "url": "_framework\/System.wasm"
     },
     {
-      "hash": "sha256-QTOJw2ybSYsXK7fdpCm1j4f755SXW+s7UGNQDaz6+LM=",
+      "hash": "sha256-UKcyJLCbszy4WAQ\/TXRoASF5PYoHVuLZAhy5Uw9Wr9w=",
       "url": "kanavrt.styles.css"
     },
     {
-      "hash": "sha256-m98UiiDOKRbagWHYTgTXKiTzQILixeRnCKLsuHESPlQ=",
+      "hash": "sha256-wabsqELVXug1Q1Y5uey\/7+L8unBH\/6HWHKERXeGme20=",
       "url": "css\/kanavrt.css"
     },
     {
@@ -205,7 +205,7 @@
       "url": "css\/mainnav.css"
     },
     {
-      "hash": "sha256-KiyfXG3R\/m5R75dQ61h74pAh9+Pb\/7Vz3UoNwWJkWxc=",
+      "hash": "sha256-JzBPeppYWfOBcgVmG0EKjOJvsfY3qEdIcesR1VBFzyk=",
       "url": "css\/sidenav.css"
     },
     {
@@ -405,5 +405,5 @@
       "url": "manifest.webmanifest"
     }
   ],
-  "version": "srCN43NE"
+  "version": "avYAU4AX"
 };
