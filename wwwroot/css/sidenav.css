@@ -59,9 +59,9 @@ a.side-link {
         font-weight: normal;
     }
 
-a.side-link > img.active-side-icon {
-    display: none;
-}
+    a.side-link > img.active-side-icon {
+        display: none;
+    }
 
 a.side-link-active > img.active-side-icon {
     display: unset;

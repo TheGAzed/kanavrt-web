@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-6POf6TjKYJszoHRx7GfKAIeK2YFmhmTVcC8eoho3lF8=",
+      "hash": "sha256-wIIfW+Qfy5QQSxRnjfp9YmSrtHGwmAScYosV9D8uW+s=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-fgW868XVEPYBZsbQqzB\/XeRlsE\/7HM7nl7V1BrKruQo=",
+      "hash": "sha256-JaTNmMG86sOXmVfXtat\/f17aYHuds5IEYL1StAn4sbI=",
       "url": "_framework\/kanavrt.wasm"
     },
     {
@@ -49,7 +49,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.wasm"
     },
     {
-      "hash": "sha256-rOgKs9eGusiAsyVHus6eBjWW6mH4Q\/XXh94pEbURZUA=",
+      "hash": "sha256-tZ40NeRUMbbli\/yxjrp1ycFcRBdYHmvdC3f9ZyDQ2vA=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.wasm"
     },
     {
@@ -173,7 +173,7 @@
       "url": "_framework\/System.Runtime.Serialization.Primitives.wasm"
     },
     {
-      "hash": "sha256-y3TfI2M8+m+oQ+\/6Z08VDPEQle5HtRBaQu1DPcPjsxw=",
+      "hash": "sha256-rMMn8G5+UdsGDfN4i1mygFwzpNA\/wv3zebzcp2mGCk0=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
@@ -193,11 +193,11 @@
       "url": "_framework\/System.wasm"
     },
     {
-      "hash": "sha256-UKcyJLCbszy4WAQ\/TXRoASF5PYoHVuLZAhy5Uw9Wr9w=",
+      "hash": "sha256-uH6YEUmFaRyBtAeFlnBCrDmdIgNgcdoO65XJS+cVbFs=",
       "url": "kanavrt.styles.css"
     },
     {
-      "hash": "sha256-wabsqELVXug1Q1Y5uey\/7+L8unBH\/6HWHKERXeGme20=",
+      "hash": "sha256-22AVOiaOnZrVoeks1BqOVjoV\/CCtKthR9yxyst6keIw=",
       "url": "css\/kanavrt.css"
     },
     {
@@ -205,7 +205,7 @@
       "url": "css\/mainnav.css"
     },
     {
-      "hash": "sha256-JzBPeppYWfOBcgVmG0EKjOJvsfY3qEdIcesR1VBFzyk=",
+      "hash": "sha256-7PrpG1xB0TM3b7l68gf6NlzthEQsnk0MJ2XfAv1THpA=",
       "url": "css\/sidenav.css"
     },
     {
@@ -281,6 +281,10 @@
       "url": "font\/Zen_Kurenaido\/ZenKurenaido-Regular.ttf"
     },
     {
+      "hash": "sha256-\/ZXKd1Nawlnr6oL8hXBWlg6LzpuZu4ocD+Q+SDt\/MPU=",
+      "url": "img\/svg\/contact\/envelope-fill.svg"
+    },
+    {
       "hash": "sha256-jA9np+0Et2GpjCcV2cx8J9Wr0gsE1TIAiX3LdKT+JXo=",
       "url": "img\/svg\/contact\/form.svg"
     },
@@ -289,12 +293,20 @@
       "url": "img\/svg\/contact\/form_active.svg"
     },
     {
+      "hash": "sha256-GWztxYQHCrTkI25TtSLodfuW0wCZvhAJbu7gNhW5ij0=",
+      "url": "img\/svg\/contact\/home-active.svg"
+    },
+    {
       "hash": "sha256-\/0qmm+XY0R+LFcN\/QTa7Pm5Iqo8MLOWDyynF5gHBHWc=",
       "url": "img\/svg\/contact\/information.svg"
     },
     {
       "hash": "sha256-nr\/+QvD8IgjIIGreN6nL9AucXA+sSk07QfJvaC6DSXc=",
       "url": "img\/svg\/contact\/information_active.svg"
+    },
+    {
+      "hash": "sha256-PlWNxgLU0\/qSrJn3AHK6J5Q2Zd7uq\/c4BEDC+adB7kI=",
+      "url": "img\/svg\/contact\/telephone-fill.svg"
     },
     {
       "hash": "sha256-QZxd5Y9L\/rBu0uFeR1llvTnPsEDRyGJ+7QC8ul9ZrpY=",
@@ -330,11 +342,11 @@
     },
     {
       "hash": "sha256-+ECvYxyuGydbNV+k+8Jni2gdZWiVrA2dEru\/cj5gU+E=",
-      "url": "img\/svg\/mainnav\/modes-active.svg"
+      "url": "img\/svg\/mainnav\/quiz-active.svg"
     },
     {
       "hash": "sha256-VF1EJwgR2ObBufDR931suEE42UFdsTAXrRhvIR\/7JKQ=",
-      "url": "img\/svg\/mainnav\/modes-default.svg"
+      "url": "img\/svg\/mainnav\/quiz-default.svg"
     },
     {
       "hash": "sha256-0i36p5dR13Yyc7OB3Ki+j9pYkUhcQcEpzoZ9JouEFS0=",
@@ -354,31 +366,31 @@
     },
     {
       "hash": "sha256-Y6XPm9XI5rc85gMKHIEqCauXvosf9aoNWzN1G8QVFww=",
-      "url": "img\/svg\/modes\/arrow-clockwise.svg"
+      "url": "img\/svg\/quiz\/arrow-clockwise.svg"
     },
     {
       "hash": "sha256-oRPHQNlDFafjPO8vyd\/jTKW47q9HMlu8fF\/NXl2WnpM=",
-      "url": "img\/svg\/modes\/eitheror.svg"
+      "url": "img\/svg\/quiz\/eitheror.svg"
     },
     {
       "hash": "sha256-1sKnpwes6wVbm27fQadMiYsshfaaOPhOoCmrC0\/ztdM=",
-      "url": "img\/svg\/modes\/eitheror_active.svg"
+      "url": "img\/svg\/quiz\/eitheror_active.svg"
     },
     {
       "hash": "sha256-DiPmZNgVxSdK6c0XW962PvZtyCtnazbiF+X+Y5CYAbw=",
-      "url": "img\/svg\/modes\/keyboard.svg"
+      "url": "img\/svg\/quiz\/keyboard.svg"
     },
     {
       "hash": "sha256-zjQWT1AS08+htNcr\/a0U2z3Yl4tXf4TNQ24OnxMiMjU=",
-      "url": "img\/svg\/modes\/keyboard_active.svg"
+      "url": "img\/svg\/quiz\/keyboard_active.svg"
     },
     {
       "hash": "sha256-w\/HT43NqXMpYD2JZpZU5a6HSKfvndF5Jlxr0pnln4aE=",
-      "url": "img\/svg\/modes\/volume-down.svg"
+      "url": "img\/svg\/quiz\/volume-down.svg"
     },
     {
       "hash": "sha256-T6lRYtVmWl+pb7fMvBPzrw+cxNVXSrovwzD76ul66PA=",
-      "url": "img\/svg\/modes\/volume-off.svg"
+      "url": "img\/svg\/quiz\/volume-off.svg"
     },
     {
       "hash": "sha256-xdaqExjyb8ssUI94L3diKcXmi6YLFYu8apdqUooq0H8=",
@@ -397,13 +409,21 @@
       "url": "img\/svg\/settings\/grid_active.svg"
     },
     {
-      "hash": "sha256-5gdA1BvbvzOddqLtfMR47n+917+v2HR48jYX5I4yhIw=",
+      "hash": "sha256-Ue1QavYKOwm+x\/dZWyF8lt33ZeKwsAi1cpue3IAqd6c=",
+      "url": "img\/svg\/statistics\/caret-right-fill.svg"
+    },
+    {
+      "hash": "sha256-WU0kuvTx\/G26JAHhN3xuTX05gFklNu1ZFjE3APYYbTQ=",
       "url": "index.html"
+    },
+    {
+      "hash": "sha256-cX3kbKKOezTCwi55E15C4dVhvbWh57E9QNT+JS0yEyE=",
+      "url": "js\/focus.js"
     },
     {
       "hash": "sha256-Rxqf4t2gkrV+ft7qcjT6AgsOBR078HNxklZSPpEwF+M=",
       "url": "manifest.webmanifest"
     }
   ],
-  "version": "\/I4SM7eC"
+  "version": "7jmJeBdQ"
 };
