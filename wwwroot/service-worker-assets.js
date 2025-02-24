@@ -193,11 +193,11 @@
       "url": "_framework\/System.wasm"
     },
     {
-      "hash": "sha256-uH6YEUmFaRyBtAeFlnBCrDmdIgNgcdoO65XJS+cVbFs=",
+      "hash": "sha256-eZ1sUuxrivHjrNAfRLZ6021FEEYtn\/S\/vkkntYTRhd8=",
       "url": "kanavrt.styles.css"
     },
     {
-      "hash": "sha256-22AVOiaOnZrVoeks1BqOVjoV\/CCtKthR9yxyst6keIw=",
+      "hash": "sha256-8xVwcrJAJ474FeFFwb8UyLDVZpgYia90o60d2zxRYUk=",
       "url": "css\/kanavrt.css"
     },
     {
@@ -425,5 +425,5 @@
       "url": "manifest.webmanifest"
     }
   ],
-  "version": "7jmJeBdQ"
+  "version": "8RNi1Hw2"
 };

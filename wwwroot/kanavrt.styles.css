@@ -88,10 +88,7 @@ li.contact-list-element[b-usjzaj04ma] {
 	list-style: none;
 	display: flex;
 	flex-direction: row;
-	height: 3rem;
-}
-
-li#contact-address[b-usjzaj04ma] {
+	height: fit-content;
 	flex-grow: 1;
 }
 
@@ -118,17 +115,27 @@ p[b-usjzaj04ma] {
 }
 
 @media screen and (max-width: 650px) {
+	section[b-usjzaj04ma] {
+		display: flex;
+		flex-direction: column;
+	}
+
 	div#contact-logo[b-usjzaj04ma] {
 		display: none;
 	}
 
 	iframe#contact-map[b-usjzaj04ma] {
-		grid-row: span 3;
+		flex-grow: 1;
 	}
 
 	ul#contact-list[b-usjzaj04ma] {
 		grid-row: span 3;
 		grid-column: span 5;
+	}
+
+	p[b-usjzaj04ma] {
+		margin-top: 1rem;
+		margin-bottom: 1rem;
 	}
 }
 /* /View/ErrorView.razor.rz.scp.css */
