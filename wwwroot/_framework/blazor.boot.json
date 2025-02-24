@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "kanavrt",
   "resources": {
-    "hash": "sha256-vZpN+SWw+nMXsv8J3kOKX87mvJoBn1EOJM+bSX2s6ro=",
+    "hash": "sha256-nCNMT3F0jxtyW/6V6ObmzIIY5N9kTZn5IBtvG0jffTU=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.dpbs5vqeq4.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "kanavrt.wasm": "sha256-mjMHJyiacawE+s2zIDtl362sxTI7h0CD2nbi/tuce1w=",
+      "kanavrt.wasm": "sha256-XNpqWYWGi6Jj2VPOv0lyHrCQaBw1/0f5t2O3/GY4IZU=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-1V+QeYmdKL3VdCI5QU41fK9zI3mEUMmdZ0A9TA80/H8=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-1vUgaXBdG2OxmXpoRvrPIsgSryxUTGk8500XXNtgy/Y=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-tZ40NeRUMbbli/yxjrp1ycFcRBdYHmvdC3f9ZyDQ2vA=",

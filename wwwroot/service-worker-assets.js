@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-nN5SMy9ASdQyXChkW4\/x9clwa1tEckiH+UICllsi5wE=",
+      "hash": "sha256-DjHVFSmrZhEUWOT2jC8ofdXpDi6sxk\/sErk9NSj2zdw=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-mjMHJyiacawE+s2zIDtl362sxTI7h0CD2nbi\/tuce1w=",
+      "hash": "sha256-XNpqWYWGi6Jj2VPOv0lyHrCQaBw1\/0f5t2O3\/GY4IZU=",
       "url": "_framework\/kanavrt.wasm"
     },
     {
@@ -195,6 +195,10 @@
     {
       "hash": "sha256-eZ1sUuxrivHjrNAfRLZ6021FEEYtn\/S\/vkkntYTRhd8=",
       "url": "kanavrt.styles.css"
+    },
+    {
+      "hash": "sha256-8Bo3TpyB49uJs6QpQMTWpUR2hJhqEpbkK\/E\/GW7tYpU=",
+      "url": "Ads.txt"
     },
     {
       "hash": "sha256-8xVwcrJAJ474FeFFwb8UyLDVZpgYia90o60d2zxRYUk=",
@@ -413,7 +417,7 @@
       "url": "img\/svg\/statistics\/caret-right-fill.svg"
     },
     {
-      "hash": "sha256-WU0kuvTx\/G26JAHhN3xuTX05gFklNu1ZFjE3APYYbTQ=",
+      "hash": "sha256-TslcU0JKXvqyImjzzUje3kOiLxzuGHdD3Fb8vPmnlOg=",
       "url": "index.html"
     },
     {
@@ -423,7 +427,15 @@
     {
       "hash": "sha256-Rxqf4t2gkrV+ft7qcjT6AgsOBR078HNxklZSPpEwF+M=",
       "url": "manifest.webmanifest"
+    },
+    {
+      "hash": "sha256-pctaR\/ut7Mmem\/urgAccyoRys5xm2r0W6bzZ1RdicRQ=",
+      "url": "Robots.txt"
+    },
+    {
+      "hash": "sha256-Yk1m8gzJ8\/\/cGmiD11edN80BoBSsmd2t3c\/bfPSvImU=",
+      "url": "sitemap.xml"
     }
   ],
-  "version": "aS885nsO"
+  "version": "ceIIkquj"
 };
