@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "kanavrt",
   "resources": {
-    "hash": "sha256-RL/Ii1LQmHorjWQoPnwfakSD70lN3mwAArG9FgrHC0k=",
+    "hash": "sha256-hxCWZV56M+nKBLopwECMpVdGKkQ0c7ZamMPZjVUxB4g=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.dpbs5vqeq4.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "kanavrt.wasm": "sha256-1YWFDBnRFw5jvhVgLp+0LVyMvqvVahCdox4mAyqwfy4=",
+      "kanavrt.wasm": "sha256-Vb9oNDTwGz3cBkPSG2lLBCey2W0nmiM6gbnQWkUPqpw=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-1V+QeYmdKL3VdCI5QU41fK9zI3mEUMmdZ0A9TA80/H8=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-1vUgaXBdG2OxmXpoRvrPIsgSryxUTGk8500XXNtgy/Y=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-tZ40NeRUMbbli/yxjrp1ycFcRBdYHmvdC3f9ZyDQ2vA=",
@@ -47,7 +47,7 @@
       "System.Net.Http.wasm": "sha256-Ls5eXfw6pkkDYFbEtz7+V8Cp+eNUuMbPrvdteQ872zY=",
       "System.Net.Primitives.wasm": "sha256-ge1mBtNYiJT803KGOQF8HvAcldwdHJx5Zw8YKrEzwcA=",
       "System.ObjectModel.wasm": "sha256-jZ1dfjm0iMS71482Idg3NHrvJfzCEepkoVmtmE1rbc0=",
-      "System.Private.CoreLib.wasm": "sha256-U6OM4pbOjhxNrk+XhvLx8oHc/tD7QXcF2PEA/VzL5T0=",
+      "System.Private.CoreLib.wasm": "sha256-ygOhCpV5hrxhFPO8UW28OhWo7neSAMfPDLnXtMSYXvY=",
       "System.Private.Uri.wasm": "sha256-N9K4owfWYUTzNEhSVbpOxOMM2N9DkVhk2VkJPh2ZyAY=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-kUAntie1LITSx+DDAX09PM1R1+8pFAgRZHar1fv47T0=",
       "System.Runtime.Serialization.Primitives.wasm": "sha256-9xQJRAtnaxEabbnavcrOZnJXgDmW6FEqs+XaVtgxgoo=",

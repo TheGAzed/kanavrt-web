@@ -837,7 +837,6 @@ div.progress-bar[b-w0tb0oalq3] {
 div.left-progress[b-w0tb0oalq3], div.right-progress[b-w0tb0oalq3] {
     height: 100%;
     width: 0%;
-    transition: width 1500ms ease-in-out;
 }
 
 div.left-progress[b-w0tb0oalq3] {
