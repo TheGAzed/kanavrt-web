@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-bQibaB73EiG7abqXpo17x3jBvxoaKeBRRHOTlbXUuHg=",
+      "hash": "sha256-7m+96wYHhqT1unp+1\/dQFqzJINy+2XJcFuMJn9n84Uw=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-Vb9oNDTwGz3cBkPSG2lLBCey2W0nmiM6gbnQWkUPqpw=",
+      "hash": "sha256-kvQSFZp4q5NjcpTADMmNKyjYKgQSYafDjIniZrnPTzc=",
       "url": "_framework\/kanavrt.wasm"
     },
     {
@@ -193,7 +193,7 @@
       "url": "_framework\/System.wasm"
     },
     {
-      "hash": "sha256-Q5GVZtCMDBZXhLL+FwdpRp3s5B\/zsw2g+t2ZPkLaxS8=",
+      "hash": "sha256-9VD9wHNYdJRh+fYexrzaFX64+k4bJfTkY46A0amyniI=",
       "url": "kanavrt.styles.css"
     },
     {
@@ -437,5 +437,5 @@
       "url": "sitemap.xml"
     }
   ],
-  "version": "Zjzrf4Lg"
+  "version": "sKSF\/Yg+"
 };

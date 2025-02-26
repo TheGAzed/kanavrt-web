@@ -847,6 +847,16 @@ div.left-progress[b-w0tb0oalq3] {
 div.right-progress[b-w0tb0oalq3] {
     background-color: var(--green);
 }
+
+small.progress-count[b-w0tb0oalq3] {
+    height: inherit;
+    min-width: 2.1rem;
+    line-height: 2.1rem;
+    text-align: center;
+    font-size: 1rem;
+    background-color: var(--dark-gray);
+    color: var(--white);
+}
 /* /View/Settings/Fonts/FontsView.razor.rz.scp.css */
 section#font-select-settings[b-j2j0d00eu3] {
 	display: flex;
