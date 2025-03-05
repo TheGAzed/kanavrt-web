@@ -430,6 +430,8 @@ div.right-progress[b-5jxdnsiu4g] {
 /* /View/Quiz/Keyboard/KeyboardView.razor.rz.scp.css */
 section[b-flntq6x1a0] {
 	grid-template-rows: 2.5rem repeat(6, 1fr);
+	border: none;
+	outline: none;
 }
 
 p.japanese-character[b-flntq6x1a0] {
