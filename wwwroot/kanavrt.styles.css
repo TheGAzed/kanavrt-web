@@ -246,7 +246,7 @@ button.guess-button[b-5jxdnsiu4g], button.guess-button-active[b-5jxdnsiu4g] {
     grid-column: 1 / -1;
     background-color: var(--light-gray);
     color: var(--black);
-    font-size: 8rem;
+    font-size: 6rem;
     border: unset;
     cursor: pointer;
 }
@@ -444,7 +444,7 @@ p.japanese-character[b-flntq6x1a0] {
 	background-color: var(--light-gray);
 	color: var(--black);
 	border-radius: 1rem;
-	font-size: 8rem;
+	font-size: 6rem;
 }
 
 p.latin-guess[b-flntq6x1a0] {
