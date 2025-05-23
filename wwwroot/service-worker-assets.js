@@ -1,8 +1,8 @@
 self.assetsManifest = {
-  "version": "7uwUuUYk",
+  "version": "2PFwtxoV",
   "assets": [
     {
-      "hash": "sha256-8Bo3TpyB49uJs6QpQMTWpUR2hJhqEpbkK/E/GW7tYpU=",
+      "hash": "sha256-tC8gmRh4ht72N9aqhAAiJm4Fy2yYepOU5wjiPNUF60Y=",
       "url": "Ads.txt"
     },
     {
@@ -158,7 +158,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-86If8t4i4g22JEbDbrBVYZj/anEuCd9WY6r7ri0r+fg=",
+      "hash": "sha256-gLrdV2NZ4mJhTUQY4i6QR6iYOi9RbcME5NTQrIJV7vc=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -194,19 +194,19 @@ self.assetsManifest = {
       "url": "_framework/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-s74kFpW8QXng82zuCXkhPRtCjSj0gMUd1JkUZyw3hek=",
+      "hash": "sha256-DWQpOw4/ePkmD3dVtQrB6beVdE0I1owFKcBjDNsS07o=",
       "url": "_framework/kanavrt.wasm"
     },
     {
-      "hash": "sha256-2AYhFBByyRS/ynznsgwMXSYqxx0ly/G4qArSY1MCb3Y=",
+      "hash": "sha256-9q26LxfmjwFIo0HTkoWP5hTubPDQ0N4+v1fpHD9l2nI=",
       "url": "css/kanavrt.css"
     },
     {
-      "hash": "sha256-OATrkIVeqJMh3ZWjkJ8k+8cv/u6bBCjn4fwRcY+QEPA=",
+      "hash": "sha256-jFacJfT77ik+PuSidR3vM4YTF9JqY47aGciY1ZbJ0ko=",
       "url": "css/mainnav.css"
     },
     {
-      "hash": "sha256-7PrpG1xB0TM3b7l68gf6NlzthEQsnk0MJ2XfAv1THpA=",
+      "hash": "sha256-/6ggXiYmNIXb3HFVv4BROzoWRoFvUvtmEdcQ/7z3cJc=",
       "url": "css/sidenav.css"
     },
     {
@@ -218,7 +218,7 @@ self.assetsManifest = {
       "url": "font/Aoboshi_One/AoboshiOne-Regular.ttf"
     },
     {
-      "hash": "sha256-n8oUBhPaRhQvpfMmxbvo82GuRK4DyCHnJ3sUQpm2BUM=",
+      "hash": "sha256-G26vRIKSPvJWprr+iZMvNoKtsfS+us4hmiS5DyvR3XY=",
       "url": "font/Aoboshi_One/OFL.txt"
     },
     {
@@ -226,7 +226,7 @@ self.assetsManifest = {
       "url": "font/Cherry_Bomb_One/CherryBombOne-Regular.ttf"
     },
     {
-      "hash": "sha256-48jlIzDVAuICI0ZDmfHEbXrlJkKLFEfYSzYwMiv4Xas=",
+      "hash": "sha256-CszZukHf6SrVMbYTGOflQ5QojuuulIF4ILmkiuX3mqI=",
       "url": "font/Cherry_Bomb_One/OFL.txt"
     },
     {
@@ -234,7 +234,7 @@ self.assetsManifest = {
       "url": "font/Chokokutai/Chokokutai-Regular.ttf"
     },
     {
-      "hash": "sha256-nva9ZHpvxc9YmI+DoXqGfVCuq8r5XqWeDpq9JeaiEXo=",
+      "hash": "sha256-qamsrMOxLEo2yhKk6JyKqnlmT8DUJSzApMdTJ6R+mBM=",
       "url": "font/Chokokutai/OFL.txt"
     },
     {
@@ -242,7 +242,7 @@ self.assetsManifest = {
       "url": "font/Dela_Gothic_One/DelaGothicOne-Regular.ttf"
     },
     {
-      "hash": "sha256-B0JNtAiSEed92KC8oU+/RuiAEEXW25Bh+9bOCOWCWU4=",
+      "hash": "sha256-du+5Cjv419kaNJjRX7QJ7ln/Q7C/YUtK+gqUe218ddM=",
       "url": "font/Dela_Gothic_One/OFL.txt"
     },
     {
@@ -250,7 +250,7 @@ self.assetsManifest = {
       "url": "font/DotGothic16/DotGothic16-Regular.ttf"
     },
     {
-      "hash": "sha256-ko9iCyh4OGjrk6ro6V8X0YuK+cXJKEb6zV/wx3Jxocg=",
+      "hash": "sha256-2qy3Qvjwq02/uChl80sL9JLxrYMjgOjYVSKqLWGCAIg=",
       "url": "font/DotGothic16/OFL.txt"
     },
     {
@@ -270,11 +270,11 @@ self.assetsManifest = {
       "url": "font/Monomaniac_One/MonomaniacOne-Regular.ttf"
     },
     {
-      "hash": "sha256-5/fqWRC8Cd8vr4nGvI/SoSGC9bLgDNUqO4KhZH4s8WY=",
+      "hash": "sha256-lloEZpN9gtNmb0B+cAkcoPlN41kaw+hV+yuCl4ZW1XE=",
       "url": "font/Monomaniac_One/OFL.txt"
     },
     {
-      "hash": "sha256-MdfvrOC7z8K+pgCnr0K2NV528KqH8Mf4EQBtg2YlfyU=",
+      "hash": "sha256-988a3ETnYKuxsPSyfEfSiSqk86obzwzAvXy4OU7OmJI=",
       "url": "font/Zen_Kurenaido/OFL.txt"
     },
     {
@@ -414,11 +414,11 @@ self.assetsManifest = {
       "url": "img/svg/statistics/caret-right-fill.svg"
     },
     {
-      "hash": "sha256-LNGt98qJXzZz0kwccdma2lPPc+U7H4nz9nHYFEnmOM4=",
+      "hash": "sha256-MrAW6w9TdiNnyloH47BORbmE8D7dYXHwVtd1mH4cSYU=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-cX3kbKKOezTCwi55E15C4dVhvbWh57E9QNT+JS0yEyE=",
+      "hash": "sha256-wOjgL6hIk1AyB7kXg5s+FyL026ns2Dn6/1ru3GpJDFo=",
       "url": "js/focus.js"
     },
     {
